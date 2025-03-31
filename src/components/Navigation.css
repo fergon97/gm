@@ -1,0 +1,28 @@
+.navbar {
+  background-color: rgb(16 16 17 / 81%);
+  display: flex;
+}
+.navbar > .container {
+  justify-content: space-between;
+  display: flex;
+  margin: 0;
+}
+
+.container img {
+  width: 75px;
+  height: auto;
+}
+
+.logo {
+  margin-left: 20px;
+}
+
+.urls {
+  margin-right: -630px;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar a:hover {
+  color: #3c833c !important;
+}

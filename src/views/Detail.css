@@ -1,0 +1,42 @@
+.notde {
+  display: flex;
+  border-bottom: 1px solid #1b241b;
+}
+.textde {
+  padding: 50px;
+  color: #ccc;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.textde h1 {
+  text-align: center;
+}
+
+.textde p {
+  text-align: justify;
+  overflow-y: auto;
+  height: 110px;
+}
+
+.textde button {
+  width: 200px;
+  margin: auto;
+  background-color: #4e744e;
+  font-weight: 600;
+  border: 2px solid black;
+  outline: 1px solid #4e744e;
+}
+
+.textde h3 {
+  text-align: center;
+  font-size: 20px;
+  margin: -20px;
+}
+
+.butde {
+  display: flex;
+}

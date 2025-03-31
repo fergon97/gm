@@ -1,0 +1,13 @@
+header {
+  display: hidden;
+}
+
+.ierror {
+  display: grid;
+  place-self: center;
+}
+
+.e404 {
+  background-color: rgb(16 16 17 / 96%);
+  width: 100%;
+}

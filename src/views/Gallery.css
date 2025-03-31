@@ -1,0 +1,67 @@
+.card img {
+  width: 100%;
+}
+
+.containerg {
+  background-color: #000000d4;
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.card {
+  margin-bottom: 25px;
+  color: #ccc;
+  background-color: #1b241b;
+}
+
+.card-title {
+  color: #4e744e;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.btncg {
+  background-color: white;
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  margin-top: -40px;
+}
+
+.page-item.active .page-link {
+  z-index: 1;
+  color: #fff;
+  background-color: #1b241b;
+  border-color: #1b241b;
+}
+
+.page-link {
+  color: #1b241b;
+}
+
+.card-textd {
+  padding: 20px;
+  height: 190px;
+  overflow-y: auto;
+  text-align: justify;
+  margin: 10px;
+}
+
+.containerg h1 {
+  text-align: center;
+  margin: 30px;
+  font-size: 70px;
+  font-weight: 600;
+  color: #8b8b8b;
+}
